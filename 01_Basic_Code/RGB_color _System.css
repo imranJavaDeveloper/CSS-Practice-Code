@@ -1,0 +1,12 @@
+p{
+    color: rgb(255,0,0 );
+}
+/* Adding the color Using the RGB Color System*/
+h1{
+    color: rgba(0, 255, 242, 0.635);
+
+}
+
+body{
+    background-color: aqua;
+}
