@@ -1,10 +1,16 @@
 #box{
     color: blue;
 }
-
+/*
 .heading{
     color: red;
 }
+    */
+
+    h1,h2,h3{
+        color: red;
+    }
+    
 #sumitbutton{
     background-color: azure;
 }
