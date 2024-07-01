@@ -10,7 +10,20 @@
     h1,h2,h3{
         color: red;
     }
-    
+
 #sumitbutton{
     background-color: azure;
+}
+
+/* set text alien */
+
+p{
+    text-align: right;
+}
+p{
+    text-align: left;
+}
+
+p{
+    text-align: center;
 }
