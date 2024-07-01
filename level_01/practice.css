@@ -19,11 +19,14 @@
 
 p{
     text-align: right;
+    text-decoration: underline;
 }
 p{
     text-align: left;
+    text-decoration: overline;
 }
 
 p{
     text-align: center;
+    text-decoration: line-through;
 }
