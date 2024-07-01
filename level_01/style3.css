@@ -1,3 +1,28 @@
+/* example of universal selector*/
 *{
     color: pink;
 }
+
+/* example of element selector*/
+
+h1{
+    color: brown;
+}
+/* example of id  selector*/
+
+#firstheading{
+    color:skyblue;
+}
+
+#fristparagrabh{
+    color: antiquewhite;
+}
+/* example of class selector*/
+
+.firstclass{
+    color: aquamarine;
+}
+
+
+
+
